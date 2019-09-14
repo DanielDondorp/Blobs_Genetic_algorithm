@@ -22,3 +22,7 @@ A weirder attribute. This determines the ability of an animal to purposefully mo
 New blobs are introduced to the world in two ways. The most important way is through _sexual reproduction_ of the blobs. The fittest half of the population gets a chance to go into mating mode. This blob selects a random mate and tries to reach it. When the mating blob reaches its mate, both blobs pass on its attributes in the form of a dna string. This string encodes their attributes. The mutation rate of the blob determines how likely it is that its exact dna is passed on. The offspring dna is a random combination of the parent dna. 
 The second way new blobs enter the world is throuh immigration. Blobs with a random genome spawn at the immigration rate of the simulation.
 
+The simulation shows that over time the population consists of animals more suited to the environment. Perception and attraction to food are maximized while attraction to poison is minimized. Eventually a population is too successful, and they eat the food faster than it spawns. After the simulation some statistics of the population over time are displayed in a simple chart.
+
+![](plot.png)
+
