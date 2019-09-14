@@ -290,7 +290,7 @@ class new_blob:
     def procreate(self, mate):
         if self.name == mate.name:
             self.mating = False
-            print(self.name+" tried asexual reproduction and failed")
+            
         else:
         
             gamete = self.meiosis()
